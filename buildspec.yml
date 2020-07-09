@@ -15,9 +15,9 @@ version: 0.2
      # - variable
   #git-credential-helper: yes
 
-install:
-    runtime-versions:
-      java: corretto11
+#install:
+    #runtime-versions:
+      #java: corretto11
       # name: version
       # name: version
     #commands:
