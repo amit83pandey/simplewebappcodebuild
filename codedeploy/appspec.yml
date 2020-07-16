@@ -11,4 +11,4 @@ hooks:
   ApplicationStart:
     - location: \application-start.bat
       timeout: 600
-      runas: root
+      runas: Administrator
