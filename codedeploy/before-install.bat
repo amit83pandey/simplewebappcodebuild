@@ -1,1 +1,1 @@
-echo %username%
+net stop Tomcat8
