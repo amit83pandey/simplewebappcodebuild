@@ -12,3 +12,7 @@ hooks:
     - location: \application-start.bat
       timeout: 600
       runas: Administrator
+  ValidateService:
+    - location: \validate-service.bat
+      timeout: 600
+      runas: Administrator
