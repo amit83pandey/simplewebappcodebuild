@@ -1,1 +1,1 @@
-net stop Tomcat8
+C:\BeatBlip\checkServerStatus.bat
